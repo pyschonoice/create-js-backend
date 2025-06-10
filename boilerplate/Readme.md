@@ -1,0 +1,1 @@
+Boilerplate with MongooDB connection setup, express instantiation, env setup and user model setup with jwt and hashed password for JS module type.

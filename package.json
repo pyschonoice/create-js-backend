@@ -1,0 +1,30 @@
+{
+  "name": "create-js-backend",
+  "version": "1.0.0",
+  "description": "A CLI to create new Node.js backend projects with boilerplate.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-js-backend": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "boilerplate",
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "pyschonoice",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.0.0",
+    "execa": "^9.0.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.19",
+    "ora": "^8.0.1"
+  }
+}

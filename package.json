@@ -1,6 +1,6 @@
 {
   "name": "create-js-backend",
-  "version": "1.0.0",
+  "version": "1.0.1", 
   "description": "A CLI to create new Node.js backend projects with boilerplate.",
   "main": "index.js",
   "type": "module",
